@@ -3,7 +3,7 @@
 <h3>what does this script do ?</h3>
 <h6>it will forward messages you sent to some chats automatically .</h6>
 <h3>proxy supported ? </h3>
-<h6>YES ! , you can use proxy (mtproto not supported because i used pyrogram ! ) <br>set proxy in login_credential config file
+<h6>YES ! , you can use proxy (mtproto not supported because i used pyrogram ! ) <br><br> set proxy in login_credential config file
 </h6>
 <h3>how can i use it ?</h3>
 <h6>
