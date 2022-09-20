@@ -1,12 +1,8 @@
 <h1># In The Name Of God</h1><br>
 <h2># Telegram_Message_Forwarder</h2>
-<h3>what does this script do ?</h3>
+<h2>what does this script do ?</h2>
 <h6>it will forward messages you sent to some chats automatically .</h6>
-<h3>proxy supported ? </h3>
-<h6>YES ! , you can use proxy (mtproto not supported because i used pyrogram ! ) <br><br> set proxy in login_credential config file<br><br>
-change enable to 1 in login_credential file if you wanna use proxy else leave it 0
-</h6>
-<h3>how can i use it ?</h3>
+<h2>how can i use it ?</h2>
 <h6>
 <h3> get api_id and api_hash </h3>
 <h6>
@@ -26,6 +22,10 @@ waiting recommended for forwarding message , you can set that in randint_range i
 set numbers bigger as soon as possible to prevent getting banned ....<br><br>
 my program will sleep a random number from range you get as input to my program ...<br><br>
 after doing that jobs do next jobs
+</h6>
+<h3>proxy supported ? </h3>
+<h6>YES ! , you can use proxy (mtproto not supported because i used pyrogram ! ) <br><br> set proxy in login_credential config file<br><br>
+change enable to 1 in login_credential file if you wanna use proxy else leave it 0
 </h6>
 <h3> HOW TO RUN IT ? </h3>
 <h6>install requirements of script with <b>pip install -r requirements.txt</b><br><br>
