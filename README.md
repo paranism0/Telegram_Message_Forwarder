@@ -15,9 +15,9 @@ first of all you must go to <b>my.telegram.org</b> and register for getting <b>a
 <h6>
 after those works you must complete <b>login_credential</b> file requirements such as api_id,api_hash,phone_number and stuff like that ....<br><br>
 </h6>
-<h3> create folders,add chats to them and write that in login_credential file</h3>
+<h3> create folders and add chats to them</h3>
 <h6>
-after that create folders it can be one folder or more and add chats you wanna forward message to them<br>automatically to those folders and add them to folder_name in login_credential config file
+after that create folders it can be one folder or more and add chats you wanna forward message to them<br><br>automatically to those folders and add them to folder_name in login_credential config file
 </h6>
 <h3> waiting for forwarding messages to prevent getting banned </h3>
 <h6>
@@ -27,11 +27,11 @@ my program will sleep a random number from range you get as input to my program 
 after doing that jobs do next jobs
 </h6>
 <h3> HOW TO RUN IT ? </h3>
-<h6>install requirements of script with <b>pip install -r requirements.txt</b> <br><br>
+<h6>install requirements of script with <b>pip install -r requirements.txt</b><br><br>
 THEN RUN SCRIPT with python client.py </h6>
 <h3>enable script for forwarding messages</h3>
 <h6>
-go to saved messages of your telegram account then write /start for enable forwarding messages to chats that you added to folders you write in login_credential config file ...<br><br>
+go to saved messages of your telegram account then write /start for enable forwarding messages to chats that you added to folders <br><br> you write in login_credential config file ...<br><br>
 after writing /start everything you send (except /stop) there will forward to chats ...
 </h6>
 <h3>disable script for forwarding messages </h3>
