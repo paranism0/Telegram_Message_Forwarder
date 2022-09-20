@@ -29,7 +29,7 @@ change enable to 1 in login_credential file if you wanna use proxy else leave it
 </h6>
 <h3> HOW TO RUN IT ? </h3>
 <h6>install requirements of script with <b>pip install -r requirements.txt</b><br><br>
-THEN RUN SCRIPT with python client.py </h6>
+THEN RUN SCRIPT with python forwarder.py </h6>
 <h3>enable script for forwarding messages</h3>
 <h6>
 go to saved messages of your telegram account then write /start for enable forwarding messages to chats that you added to folders <br><br> you write in login_credential config file ...<br><br>
